@@ -1,5 +1,5 @@
 # Basic
-title: 李亚星
+title: 谯玲玲
 subtitle: 演示站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
@@ -10,13 +10,13 @@ url: "http://bliarzn007.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: zhijiao
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
+    weibo: 18883614294 
     github: leopardpan
     # zhihu: panpanleopard
     # juejin: xxx
